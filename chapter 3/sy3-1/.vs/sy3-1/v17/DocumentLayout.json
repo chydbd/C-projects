@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#projects\\sy3-1\\",
+  "WorkspaceRootPath": "D:\\GithubRepos\\C#projects\\chapter 3\\sy3-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{424ABBA6-B845-4BD3-8C60-8720B2CE1218}|sy3-1\\sy3-1.csproj|d:\\c#projects\\sy3-1\\sy3-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{424ABBA6-B845-4BD3-8C60-8720B2CE1218}|sy3-1\\sy3-1.csproj|d:\\githubrepos\\c#projects\\chapter 3\\sy3-1\\sy3-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{424ABBA6-B845-4BD3-8C60-8720B2CE1218}|sy3-1\\sy3-1.csproj|solutionrelative:sy3-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{424ABBA6-B845-4BD3-8C60-8720B2CE1218}|sy3-1\\sy3-1.csproj|d:\\c#projects\\sy3-1\\sy3-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{424ABBA6-B845-4BD3-8C60-8720B2CE1218}|sy3-1\\sy3-1.csproj|D:\\GithubRepos\\C#projects\\chapter 3\\sy3-1\\sy3-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{424ABBA6-B845-4BD3-8C60-8720B2CE1218}|sy3-1\\sy3-1.csproj|solutionrelative:sy3-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\C#projects\\sy3-1\\sy3-1\\Form1.cs",
+              "DocumentMoniker": "D:\\GithubRepos\\C#projects\\chapter 3\\sy3-1\\sy3-1\\Form1.cs",
               "RelativeDocumentMoniker": "sy3-1\\Form1.cs",
-              "ToolTip": "D:\\C#projects\\sy3-1\\sy3-1\\Form1.cs",
+              "ToolTip": "D:\\GithubRepos\\C#projects\\chapter 3\\sy3-1\\sy3-1\\Form1.cs",
               "RelativeToolTip": "sy3-1\\Form1.cs",
               "ViewState": "AQIAAEoAAAAAAAAAAAAAAFgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\C#projects\\sy3-1\\sy3-1\\Form1.cs",
+              "DocumentMoniker": "D:\\GithubRepos\\C#projects\\chapter 3\\sy3-1\\sy3-1\\Form1.cs",
               "RelativeDocumentMoniker": "sy3-1\\Form1.cs",
-              "ToolTip": "D:\\C#projects\\sy3-1\\sy3-1\\Form1.cs [\u8BBE\u8BA1]",
+              "ToolTip": "D:\\GithubRepos\\C#projects\\chapter 3\\sy3-1\\sy3-1\\Form1.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "sy3-1\\Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T00:29:08.485Z",
