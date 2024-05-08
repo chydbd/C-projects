@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#projects\\chapter 3\\sy3-3\\",
+  "WorkspaceRootPath": "D:\\GithubRepos\\C#projects\\chapter 3\\sy3-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B09C562D-989F-4B1F-A3AB-FF3EB847BD5E}|sy3-3\\sy3-3.csproj|d:\\c#projects\\chapter 3\\sy3-3\\sy3-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B09C562D-989F-4B1F-A3AB-FF3EB847BD5E}|sy3-3\\sy3-3.csproj|d:\\githubrepos\\c#projects\\chapter 3\\sy3-3\\sy3-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B09C562D-989F-4B1F-A3AB-FF3EB847BD5E}|sy3-3\\sy3-3.csproj|solutionrelative:sy3-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,13 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#projects\\chapter 3\\sy3-3\\sy3-3\\Program.cs",
+              "DocumentMoniker": "D:\\GithubRepos\\C#projects\\chapter 3\\sy3-3\\sy3-3\\Program.cs",
               "RelativeDocumentMoniker": "sy3-3\\Program.cs",
-              "ToolTip": "D:\\C#projects\\chapter 3\\sy3-3\\sy3-3\\Program.cs",
+              "ToolTip": "D:\\GithubRepos\\C#projects\\chapter 3\\sy3-3\\sy3-3\\Program.cs",
               "RelativeToolTip": "sy3-3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wFkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T01:25:40.255Z"
+              "WhenOpened": "2024-04-24T01:25:40.255Z",
+              "EditorCaption": ""
             }
           ]
         }
