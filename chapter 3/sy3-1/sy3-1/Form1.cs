@@ -57,14 +57,14 @@ namespace sy3_1
                     return radius;
                 }
             }
-            public double s
+            public double GetArea
             {
                 get
                 {
                     return Math.Pow(radius,2) * Math.PI;
                 }
             }
-            public double c
+            public double GetPerimeter
             {
                 get
                 {
@@ -72,7 +72,7 @@ namespace sy3_1
                 }
             }
 
-            public double d
+            public double GetDistance
             {
                 get
                 {
@@ -87,9 +87,9 @@ namespace sy3_1
             cir.getx = double.Parse(textBox1.Text);
             cir.gety = double.Parse(textBox2.Text);
             cir.getradius = double.Parse(textBox3.Text);
-            textBox4.Text = cir.s.ToString();
-            textBox5.Text = cir.c.ToString();
-            textBox6.Text = cir.d.ToString();
+            textBox4.Text = string.Format("{0:0.00}", cir.GetArea);
+            textBox5.Text = string.Format("{0:0.00}", cir.GetPerimeter);
+            textBox6.Text = string.Format("{0:0.00}", cir.GetDistance);
         }
     }
 }

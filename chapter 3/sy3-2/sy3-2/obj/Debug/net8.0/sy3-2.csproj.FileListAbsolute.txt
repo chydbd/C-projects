@@ -12,3 +12,18 @@ D:\C#projects\sy3-2\sy3-2\obj\Debug\net8.0\refint\sy3-2.dll
 D:\C#projects\sy3-2\sy3-2\obj\Debug\net8.0\sy3-2.pdb
 D:\C#projects\sy3-2\sy3-2\obj\Debug\net8.0\sy3-2.genruntimeconfig.cache
 D:\C#projects\sy3-2\sy3-2\obj\Debug\net8.0\ref\sy3-2.dll
+D:\GithubRepos\C#projects\chapter 3\sy3-2\sy3-2\bin\Debug\net8.0\sy3-2.exe
+D:\GithubRepos\C#projects\chapter 3\sy3-2\sy3-2\bin\Debug\net8.0\sy3-2.deps.json
+D:\GithubRepos\C#projects\chapter 3\sy3-2\sy3-2\bin\Debug\net8.0\sy3-2.runtimeconfig.json
+D:\GithubRepos\C#projects\chapter 3\sy3-2\sy3-2\bin\Debug\net8.0\sy3-2.dll
+D:\GithubRepos\C#projects\chapter 3\sy3-2\sy3-2\bin\Debug\net8.0\sy3-2.pdb
+D:\GithubRepos\C#projects\chapter 3\sy3-2\sy3-2\obj\Debug\net8.0\sy3-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepos\C#projects\chapter 3\sy3-2\sy3-2\obj\Debug\net8.0\sy3-2.AssemblyInfoInputs.cache
+D:\GithubRepos\C#projects\chapter 3\sy3-2\sy3-2\obj\Debug\net8.0\sy3-2.AssemblyInfo.cs
+D:\GithubRepos\C#projects\chapter 3\sy3-2\sy3-2\obj\Debug\net8.0\sy3-2.csproj.CoreCompileInputs.cache
+D:\GithubRepos\C#projects\chapter 3\sy3-2\sy3-2\obj\Debug\net8.0\sy3-2.sourcelink.json
+D:\GithubRepos\C#projects\chapter 3\sy3-2\sy3-2\obj\Debug\net8.0\sy3-2.dll
+D:\GithubRepos\C#projects\chapter 3\sy3-2\sy3-2\obj\Debug\net8.0\refint\sy3-2.dll
+D:\GithubRepos\C#projects\chapter 3\sy3-2\sy3-2\obj\Debug\net8.0\sy3-2.pdb
+D:\GithubRepos\C#projects\chapter 3\sy3-2\sy3-2\obj\Debug\net8.0\sy3-2.genruntimeconfig.cache
+D:\GithubRepos\C#projects\chapter 3\sy3-2\sy3-2\obj\Debug\net8.0\ref\sy3-2.dll
