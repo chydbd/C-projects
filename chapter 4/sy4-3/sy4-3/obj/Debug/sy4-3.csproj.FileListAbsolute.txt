@@ -1,0 +1,10 @@
+D:\GithubRepos\C#projects\chapter 4\sy4-3\sy4-3\bin\Debug\sy4-3.exe.config
+D:\GithubRepos\C#projects\chapter 4\sy4-3\sy4-3\bin\Debug\sy4-3.exe
+D:\GithubRepos\C#projects\chapter 4\sy4-3\sy4-3\bin\Debug\sy4-3.pdb
+D:\GithubRepos\C#projects\chapter 4\sy4-3\sy4-3\obj\Debug\sy4-3.csproj.AssemblyReference.cache
+D:\GithubRepos\C#projects\chapter 4\sy4-3\sy4-3\obj\Debug\sy4_3.Form1.resources
+D:\GithubRepos\C#projects\chapter 4\sy4-3\sy4-3\obj\Debug\sy4_3.Properties.Resources.resources
+D:\GithubRepos\C#projects\chapter 4\sy4-3\sy4-3\obj\Debug\sy4-3.csproj.GenerateResource.cache
+D:\GithubRepos\C#projects\chapter 4\sy4-3\sy4-3\obj\Debug\sy4-3.csproj.CoreCompileInputs.cache
+D:\GithubRepos\C#projects\chapter 4\sy4-3\sy4-3\obj\Debug\sy4-3.exe
+D:\GithubRepos\C#projects\chapter 4\sy4-3\sy4-3\obj\Debug\sy4-3.pdb
